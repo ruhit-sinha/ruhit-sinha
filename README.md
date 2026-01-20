@@ -6,7 +6,6 @@ I'm passionate about building impactful software and solving complex problems th
 - 🌱 I’m constantly learning new technologies to stay updated.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about development or any tech-related topics!
-- 📫 How to reach me: [Aapka Email/LinkedIn Link yahan dalein
 ---
 
 ## 🌐 Socials:
